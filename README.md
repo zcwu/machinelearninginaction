@@ -1,7 +1,8 @@
 Machine Learning in Action 
 ==========================
 Zucheng Wu
-2018/11.23
+
+2018/11/23
 
 This is the source code to go with "Machine Learning in Action" 
 by Peter Harrington published by Manning Inc.
